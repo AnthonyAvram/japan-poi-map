@@ -1,9 +1,12 @@
 ﻿Prefecture,Name,Latitude,Longitude,Region,Priority,Description
-Yamanashi,Mount Fuji,35.3606,138.7274,A,★★,Early‑morning sunrise visit (JR Chūō Line → Fuji‑Kyūko Line)
-Yamanashi,Asaba Ryokan,35.5065,138.7648,A,★★,"Kawaguchiko – Accommodation (Ryokan) – Traditional ryokan with Lake Kawaguchiko views, on‑sen"
-Yamanashi,Lake Kawaguchi,35.5130603,138.7448243,A,★★,One of the best Mount Fuji view spots; free; beautiful in cherry-blossom and autumn seasons. From 'Unreal places' slideshow.
-Yamanashi,Kitaguchi Hongu Fuji Sengen Shrine,35.4710138,138.7926376,A,★★,"The main shrine of Mt. Fuji (north base, Fujiyoshida); traditional starting point of the Fuji climb. Featured in Fuji Soul Tours stopover itinerary."
-Shizuoka,Shiraito Falls,35.3129910,138.5872234,A,★★,UNESCO World Heritage waterfall near Mt. Fuji (part of the Fuji listing); featured in Fuji Soul Tours stopover itinerary. Fuji area day stop.
+Nagano,Kamikochi,36.2583,137.6425,B,★★★★,Nature / Hiking (Japanese Alps) – Highland valley in the Northern Japan Alps; accessible via bus from Matsumoto or Takayama
+Nagano,Narai-juku (Narai Post Town),35.8225,137.7269,B,★★,"Nagano Prefecture (Kiso Valley) – Town / Historic post town – Well‑preserved Edo‑period post town along the Nakasendo, known for its traditional wooden buildings"
+Nagano,Togakushi Shrine,36.7350,138.0322,B,★★★★,"Complex of five shrines nestled in forested mountains, famous for its long avenue of cedar trees and zigzag path"
+Nagano,Jigokudani Monkey Park,36.7564,138.4089,B,★★,Wildlife / Snow monkeys – Famous for wild Japanese macaques bathing in hot springs during winter
+Gifu,Monet's Pond,35.5430,136.8910,B,★★,"Village pond (Monroe no Ike) whose clear turquoise water mirrors the sky — a real-life 'Monet's Pond', scenic and free. Best in summer/autumn."
+Gifu,Kegon-ji Temple,35.4437,136.7619,B,★★,Historic temple known for its beautiful garden and seasonal flowers
+Gifu,Shirakawa-go,36.2565,136.9064,B,★★,Village / UNESCO site – UNESCO World Heritage site featuring traditional gassho‑zukuri farmhouses
+Gifu,Taki Shrine,35.6260122,136.8598652,B,★★,"Scenic shrine, breathtaking otherworld setting (in Gifu). From 'otherworld Japan' video."
 Kyoto,Katsura Rikyu,34.9874,135.7320,C,★★,"Palace / Garden – Imperial villa and garden in western Kyoto, renowned for its traditional architecture and landscape design"
 Kyoto,Arashiyama Bamboo Forest,35.0167419,135.6711482,C,★★,"Kyoto's iconic bamboo grove; free entry, best early morning. Real talk (Kyoto guide Naoya, 09-05): it looks stunning in photos but the actual walk is SHORT and way too crowded — low ROI. Consider Philosopher's Path (recommended) or Kibune instead."
 Kyoto,Philosopher's Path,35.0247911,135.7963761,C,★★,Kyoto canal-side walk; RECOMMENDED by guide Naoya — beautiful residential views esp. cherry-blossom and autumn seasons; great photos. (from 09-05 guide verdicts)
@@ -64,19 +67,18 @@ Tokyo,Aogashima Island,32.4582490,139.7674692,A,★★,Remote volcanic island in
 Tokyo,Shibuya Hikarie Sky Lobby,35.6591803,139.7036853,A,★★,Free 11F sky lobby 2 min from Shibuya station — huge-window view over Shibuya Crossing; great photos. Address: 2-21-1 Shibuya. Free Tokyo viewpoint (from Tokyo tour video).
 Tokyo,Tower Hall Funabori Observation Tower,35.6843894,139.8649112,A,★★,"Free observation deck at 103m in Edogawa; hidden gem, no tourists — see Skytree, Tokyo Tower, Mt Fuji, whole city. Address: 4-1-1 Funabori. Free Tokyo viewpoint (from Tokyo tour video)."
 Tokyo,Asakusa Culture Tourist Information Center,35.710667,139.796528,A,★★,"Free 8F observation terrace steps from Kaminarimon — view over Sensoji Temple + Tokyo Skytree. Address: 2-18-9 Kaminarimon, Taito. Free Tokyo viewpoint."
+Yamanashi,Mount Fuji,35.3606,138.7274,A,★★,Early‑morning sunrise visit (JR Chūō Line → Fuji‑Kyūko Line)
+Yamanashi,Asaba Ryokan,35.5065,138.7648,A,★★,"Kawaguchiko – Accommodation (Ryokan) – Traditional ryokan with Lake Kawaguchiko views, on‑sen"
+Yamanashi,Lake Kawaguchi,35.5130603,138.7448243,A,★★,One of the best Mount Fuji view spots; free; beautiful in cherry-blossom and autumn seasons. From 'Unreal places' slideshow.
+Yamanashi,Kitaguchi Hongu Fuji Sengen Shrine,35.4710138,138.7926376,A,★★,"The main shrine of Mt. Fuji (north base, Fujiyoshida); traditional starting point of the Fuji climb. Featured in Fuji Soul Tours stopover itinerary."
+Shizuoka,Shiraito Falls,35.3129910,138.5872234,A,★★,UNESCO World Heritage waterfall near Mt. Fuji (part of the Fuji listing); featured in Fuji Soul Tours stopover itinerary. Fuji area day stop.
+Kanagawa,Kamakura,35.3192,139.5467,A,★★,"Coastal temple town south of Tokyo — Great Buddha (Daibutsu), Hase-dera, Tsuruoka Hachimangu; on clear days Fuji rises over Sagami Bay from the beach. Free to wander (Daibutsu+Hase small fees). Easy ~1h day-trip from Tokyo."
+Kanagawa,Enoshima Island,35.2994,139.4805,A,★★,"Seaside island just down the coast from Kamakura — the classic spot for Fuji-over-the-bay views; sea caves, Enoshima Shrine, sunset coast. Pairs with a Kamakura day-trip."
 Chiba,Chiba Prefecture,35.6047,140.1084,A,★★,"Prefecture / Region – Prefecture east of Tokyo known for Tokyo Disney Resort, Narita Airport, and coastal scenery"
 Saitama,Sayama Hills,35.7620951,139.3981823,A,★★,Saitama wooded hills that inspired My Neighbor Totoro. Ghibli real-world spot.
 Ibaraki,Hitachi Seaside Park,36.4025276,140.5943473,A,★★,"Seasonal flower fields (blue nemophila hills); small entrance fee, best season varies. From 'Unreal places' slideshow."
 Ibaraki,Kashima Jingu Shrine,35.9706555,140.6260511,A,★★,One of Japan's most important/oldest shrines — powerful otherworld atmosphere. From 'hidden wonderland' otherworld video.
 Tochigi,Kegon Falls,36.7380094,139.5019683,A,★★,Nikko (Tochigi) — the real view is from the lower deck: take the underground elevator down (tunnel walk + reveal are part of it); ~$4 cash only. Top free lookout is the lesser view. Day-trip from Tokyo via Tobu Nikko Line (book direct trains 2+ wks ahead).
-Nagano,Kamikochi,36.2583,137.6425,B,★★★★,Nature / Hiking (Japanese Alps) – Highland valley in the Northern Japan Alps; accessible via bus from Matsumoto or Takayama
-Nagano,Narai-juku (Narai Post Town),35.8225,137.7269,B,★★,"Nagano Prefecture (Kiso Valley) – Town / Historic post town – Well‑preserved Edo‑period post town along the Nakasendo, known for its traditional wooden buildings"
-Nagano,Togakushi Shrine,36.7350,138.0322,B,★★★★,"Complex of five shrines nestled in forested mountains, famous for its long avenue of cedar trees and zigzag path"
-Nagano,Jigokudani Monkey Park,36.7564,138.4089,B,★★,Wildlife / Snow monkeys – Famous for wild Japanese macaques bathing in hot springs during winter
-Gifu,Monet's Pond,35.5430,136.8910,B,★★,"Village pond (Monroe no Ike) whose clear turquoise water mirrors the sky — a real-life 'Monet's Pond', scenic and free. Best in summer/autumn."
-Gifu,Kegon-ji Temple,35.4437,136.7619,B,★★,Historic temple known for its beautiful garden and seasonal flowers
-Gifu,Shirakawa-go,36.2565,136.9064,B,★★,Village / UNESCO site – UNESCO World Heritage site featuring traditional gassho‑zukuri farmhouses
-Gifu,Taki Shrine,35.6260122,136.8598652,B,★★,"Scenic shrine, breathtaking otherworld setting (in Gifu). From 'otherworld Japan' video."
 Mie,Nabana no Sato,35.0586,136.6582,B,★★,Flower park / Illumination – Famous for seasonal flower displays and winter illumination
 Mie,Sangi Railway,34.7302,136.5083,B,★★,"Railway / Scenic line – Scenic local railway running through Mie, popular for autumn views"
 Mie,Kumano Fireworks Festival,33.9035,136.0408,B,★★,"Annual fireworks display over the Kumano River, held in summer (check dates)"
