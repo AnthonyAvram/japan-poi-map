@@ -3,14 +3,14 @@
 <Document>
 <name>Japan POI Registry</name>
 <Placemark>
-<name>Mount Fuji</name>
-<description>Leg 1: Fuji / Yamanashi (day 2) &middot; ★★</description>
-<Point><coordinates>138.7274,35.3606,0</coordinates></Point>
-</Placemark>
-<Placemark>
 <name>Asaba Ryokan</name>
 <description>Leg 1: Fuji / Yamanashi (day 2) &middot; ★★</description>
 <Point><coordinates>138.7648,35.5065,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kitaguchi Hongu Fuji Sengen Shrine</name>
+<description>Leg 1: Fuji / Yamanashi (day 2) &middot; ★★</description>
+<Point><coordinates>138.7926376,35.4710138,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Lake Kawaguchi</name>
@@ -18,14 +18,49 @@
 <Point><coordinates>138.7448243,35.5130603,0</coordinates></Point>
 </Placemark>
 <Placemark>
+<name>Mount Fuji</name>
+<description>Leg 1: Fuji / Yamanashi (day 2) &middot; ★★</description>
+<Point><coordinates>138.7274,35.3606,0</coordinates></Point>
+</Placemark>
+<Placemark>
 <name>Shiraito Falls</name>
 <description>Leg 1: Fuji / Yamanashi (day 2) &middot; ★★</description>
 <Point><coordinates>138.5872234,35.3129910,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Kitaguchi Hongu Fuji Sengen Shrine</name>
-<description>Leg 1: Fuji / Yamanashi (day 2) &middot; ★★</description>
-<Point><coordinates>138.7926376,35.4710138,0</coordinates></Point>
+<name>Arashiyama Bamboo Forest</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.6711482,35.0167419,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Asuka Stone Monuments</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.8167,34.4667,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Eikando Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7908170,35.0146816,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fushimi Inari Taisha</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7797101,34.9675192,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Futai-ji Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.8040,34.6883,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gion District</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7784030,35.0046897,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hannya-ji Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7982,34.6722,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Hasedera Temple (Nagaya Temple)</name>
@@ -38,59 +73,9 @@
 <Point><coordinates>135.8049,34.6853,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Tsubasoka Temple</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.8050,34.6850,0</coordinates></Point>
-</Placemark>
-<Placemark>
 <name>Katsura Rikyu</name>
 <description>Leg 2: Kansai (Kyoto/Nara/Osaka/Wakayama) &middot; ★★</description>
 <Point><coordinates>135.7320,34.9874,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Hannya-ji Temple</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.7982,34.6722,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Futai-ji Temple</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.8040,34.6883,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Takisaka no Michi</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.8450,34.6830,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Soni Highland</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>136.0860,34.5180,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Mitarai Valley</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.9000,34.5000,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Asuka Stone Monuments</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.8167,34.4667,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Nachi Falls</name>
-<description>Leg 2: Kansai &middot; ★★★★</description>
-<Point><coordinates>135.8876266,33.6752833,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Arashiyama Bamboo Forest</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.6711482,35.0167419,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Philosopher's Path</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.7963761,35.0247911,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Kibune</name>
@@ -98,54 +83,19 @@
 <Point><coordinates>135.7642500,35.1225862,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Eikando Temple</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.7908170,35.0146816,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Tofukuji Temple</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.7736932,34.9760806,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Rurikoin Temple</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.8085890,35.0634463,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Fushimi Inari Taisha</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.7797101,34.9675192,0</coordinates></Point>
-</Placemark>
-<Placemark>
 <name>Kiyomizu-dera</name>
 <description>Leg 2: Kansai &middot; ★★</description>
 <Point><coordinates>135.7844389,34.9943030,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Gion District</name>
+<name>Mitarai Valley</name>
 <description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.7784030,35.0046897,0</coordinates></Point>
+<Point><coordinates>135.9000,34.5000,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Nishiki Market</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.7655699,35.0050244,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Nijo Castle</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.7485369,35.0140076,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Pontocho Alley</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.7712126,35.0042456,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Shipporyuji Temple</name>
-<description>Leg 2: Kansai &middot; ★★</description>
-<Point><coordinates>135.3877684,34.3383538,0</coordinates></Point>
+<name>Nachi Falls</name>
+<description>Leg 2: Kansai &middot; ★★★★</description>
+<Point><coordinates>135.8876266,33.6752833,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Nene-no-Michi</name>
@@ -153,19 +103,54 @@
 <Point><coordinates>135.7799500,35.0005286,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Hiroshima</name>
-<description>Leg 3: Hiroshima / Chugoku &middot; ★★</description>
-<Point><coordinates>132.4553,34.3853,0</coordinates></Point>
+<name>Nijo Castle</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7485369,35.0140076,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Shinsho-ji Temple / Shinsho-ji Zen Museum and Gardens</name>
-<description>Leg 3: Hiroshima / Chugoku &middot; ★★</description>
-<Point><coordinates>133.1725,34.4969,0</coordinates></Point>
+<name>Nishiki Market</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7655699,35.0050244,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Itsukushima Shrine (Miyajima)</name>
-<description>Leg 3: Hiroshima / Chugoku &middot; ★★★★</description>
-<Point><coordinates>132.3196,34.2952,0</coordinates></Point>
+<name>Philosopher's Path</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7963761,35.0247911,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pontocho Alley</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7712126,35.0042456,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Rurikoin Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.8085890,35.0634463,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Shipporyuji Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.3877684,34.3383538,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Soni Highland</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>136.0860,34.5180,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Takisaka no Michi</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.8450,34.6830,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tofukuji Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7736932,34.9760806,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tsubasoka Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.8050,34.6850,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Akiyoshido Cave</name>
@@ -173,9 +158,44 @@
 <Point><coordinates>131.2365,34.2150,0</coordinates></Point>
 </Placemark>
 <Placemark>
+<name>Hiroshima</name>
+<description>Leg 3: Hiroshima / Chugoku &middot; ★★</description>
+<Point><coordinates>132.4553,34.3853,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Itsukushima Shrine (Miyajima)</name>
+<description>Leg 3: Hiroshima / Chugoku &middot; ★★★★</description>
+<Point><coordinates>132.3196,34.2952,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Shinsho-ji Temple / Shinsho-ji Zen Museum and Gardens</name>
+<description>Leg 3: Hiroshima / Chugoku &middot; ★★</description>
+<Point><coordinates>133.1725,34.4969,0</coordinates></Point>
+</Placemark>
+<Placemark>
 <name>Tomonoura</name>
 <description>Leg 3: Hiroshima / Chugoku &middot; ★★</description>
 <Point><coordinates>133.3803274,34.3808768,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fukuoka</name>
+<description>Leg 4: North Kyushu &middot; ★★</description>
+<Point><coordinates>130.4017,33.5904,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kumanoza Shrine</name>
+<description>Leg 4: North Kyushu &middot; ★★</description>
+<Point><coordinates>130.7418,32.7898,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oita Ghibli Tunnel</name>
+<description>Leg 4: North Kyushu &middot; ★★</description>
+<Point><coordinates>131.6078,33.2369,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Okawachiyama</name>
+<description>Leg 4: North Kyushu &middot; ★★</description>
+<Point><coordinates>129.8943208,33.2338557,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Saga</name>
@@ -188,9 +208,9 @@
 <Point><coordinates>130.3000,33.2500,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Okawachiyama</name>
+<name>Takasumi Shrine</name>
 <description>Leg 4: North Kyushu &middot; ★★</description>
-<Point><coordinates>129.8943208,33.2338557,0</coordinates></Point>
+<Point><coordinates>130.9329879,33.4840463,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Torii Sea / Uo Shrine Torii Gate</name>
@@ -198,34 +218,19 @@
 <Point><coordinates>130.0189,33.4375,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Oita Ghibli Tunnel</name>
-<description>Leg 4: North Kyushu &middot; ★★</description>
-<Point><coordinates>131.6078,33.2369,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Kumanoza Shrine</name>
-<description>Leg 4: North Kyushu &middot; ★★</description>
-<Point><coordinates>130.7418,32.7898,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Fukuoka</name>
-<description>Leg 4: North Kyushu &middot; ★★</description>
-<Point><coordinates>130.4017,33.5904,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Takasumi Shrine</name>
-<description>Leg 4: North Kyushu &middot; ★★</description>
-<Point><coordinates>130.9329879,33.4840463,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Mizonokuchi Shrine / Mizonochi Cave</name>
-<description>Leg 5: Miyazaki (Takachiho/Amano Iwato) &middot; ★★</description>
-<Point><coordinates>131.4239,31.9110,0</coordinates></Point>
+<name>Amanoyasukawara (Amano Iwato area)</name>
+<description>Leg 5: Miyazaki &middot; ★★</description>
+<Point><coordinates>131.3045,32.7080,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Cheonan Kawara / Amano Iwato Cave</name>
 <description>Leg 5: Miyazaki &middot; ★★</description>
 <Point><coordinates>131.3045,32.7080,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mizonokuchi Shrine / Mizonochi Cave</name>
+<description>Leg 5: Miyazaki (Takachiho/Amano Iwato) &middot; ★★</description>
+<Point><coordinates>131.4239,31.9110,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Takachino Gorge</name>
@@ -236,11 +241,6 @@
 <name>Udo Shrine</name>
 <description>Leg 5: Miyazaki &middot; ★★</description>
 <Point><coordinates>131.4250,31.5600,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Amanoyasukawara (Amano Iwato area)</name>
-<description>Leg 5: Miyazaki &middot; ★★</description>
-<Point><coordinates>131.3045,32.7080,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Kagoshima</name>
@@ -263,19 +263,49 @@
 <Point><coordinates>130.5500,30.3833,0</coordinates></Point>
 </Placemark>
 <Placemark>
+<name>Anime-center Akihabara</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.7715,35.7020,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Aogashima Island</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.7674692,32.4582490,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Asakusa Culture Tourist Information Center</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.796528,35.710667,0</coordinates></Point>
+</Placemark>
+<Placemark>
 <name>Chiba Prefecture</name>
 <description>Leg 7: Tokyo FINAL &middot; ★★</description>
 <Point><coordinates>140.1084,35.6047,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Sensō-ji Temple</name>
+<name>Ghibli Museum</name>
 <description>Leg 7: Tokyo FINAL &middot; ★★</description>
-<Point><coordinates>139.7967,35.7148,0</coordinates></Point>
+<Point><coordinates>139.5708,35.6963,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hitachi Seaside Park</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>140.5943473,36.4025276,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Imperial Palace</name>
 <description>Leg 7: Tokyo FINAL &middot; ★★</description>
 <Point><coordinates>139.7535986,35.6802215,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kashima Jingu Shrine</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>140.6260511,35.9706555,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kegon Falls</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.5019683,36.7380094,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Mandarake Nakano Broadway</name>
@@ -288,29 +318,9 @@
 <Point><coordinates>139.6986,35.6596,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Anime-center Akihabara</name>
-<description>Leg 7: Tokyo FINAL &middot; ★★</description>
-<Point><coordinates>139.7715,35.7020,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Tokyo Tower</name>
-<description>Leg 7: Tokyo FINAL &middot; ★★</description>
-<Point><coordinates>139.7454,35.6586,0</coordinates></Point>
-</Placemark>
-<Placemark>
 <name>Meiji Shrine</name>
 <description>Leg 7: Tokyo FINAL &middot; ★★</description>
 <Point><coordinates>139.6993,35.6764,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Ghibli Museum</name>
-<description>Leg 7: Tokyo FINAL &middot; ★★</description>
-<Point><coordinates>139.5708,35.6963,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Seiseki-Sakuragaoka</name>
-<description>Leg 7: Tokyo FINAL &middot; ★★</description>
-<Point><coordinates>139.4470446,35.6508541,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Sayama Hills</name>
@@ -318,19 +328,14 @@
 <Point><coordinates>139.3981823,35.7620951,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Aogashima Island</name>
+<name>Seiseki-Sakuragaoka</name>
 <description>Leg 7: Tokyo FINAL &middot; ★★</description>
-<Point><coordinates>139.7674692,32.4582490,0</coordinates></Point>
+<Point><coordinates>139.4470446,35.6508541,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Hitachi Seaside Park</name>
+<name>Sensō-ji Temple</name>
 <description>Leg 7: Tokyo FINAL &middot; ★★</description>
-<Point><coordinates>140.5943473,36.4025276,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Kegon Falls</name>
-<description>Leg 7: Tokyo FINAL &middot; ★★</description>
-<Point><coordinates>139.5019683,36.7380094,0</coordinates></Point>
+<Point><coordinates>139.7967,35.7148,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Shibuya Hikarie Sky Lobby</name>
@@ -338,64 +343,14 @@
 <Point><coordinates>139.7036853,35.6591803,0</coordinates></Point>
 </Placemark>
 <Placemark>
+<name>Tokyo Tower</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.7454,35.6586,0</coordinates></Point>
+</Placemark>
+<Placemark>
 <name>Tower Hall Funabori Observation Tower</name>
 <description>Leg 7: Tokyo FINAL &middot; ★★</description>
 <Point><coordinates>139.8649112,35.6843894,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Asakusa Culture Tourist Information Center</name>
-<description>Leg 7: Tokyo FINAL &middot; ★★</description>
-<Point><coordinates>139.796528,35.710667,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Kashima Jingu Shrine</name>
-<description>Leg 7: Tokyo FINAL &middot; ★★</description>
-<Point><coordinates>140.6260511,35.9706555,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Kamikochi</name>
-<description>Leg 8: Chubu/Alps — detour &middot; ★★★★</description>
-<Point><coordinates>137.6425,36.2583,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Monet's Pond</name>
-<description>Leg 8: Chubu/Alps &middot; ★★</description>
-<Point><coordinates>136.8910,35.5430,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Kegon-ji Temple</name>
-<description>Leg 8: Chubu/Alps &middot; ★★</description>
-<Point><coordinates>136.7619,35.4437,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Shirakawa-go</name>
-<description>Leg 8: Chubu/Alps &middot; ★★</description>
-<Point><coordinates>136.9064,36.2565,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Nabana no Sato</name>
-<description>Leg 8: Chubu/Alps &middot; ★★</description>
-<Point><coordinates>136.6582,35.0586,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Sangi Railway</name>
-<description>Leg 8: Chubu/Alps &middot; ★★</description>
-<Point><coordinates>136.5083,34.7302,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Kumano Fireworks Festival</name>
-<description>Leg 8: Chubu/Alps &middot; ★★</description>
-<Point><coordinates>136.0408,33.9035,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Narai-juku (Narai Post Town)</name>
-<description>Leg 8: Chubu/Alps &middot; ★★</description>
-<Point><coordinates>137.7269,35.8225,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Togakushi Shrine</name>
-<description>Leg 8: Chubu/Alps &middot; ★★★★</description>
-<Point><coordinates>138.0322,36.7350,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Jigokudani Monkey Park</name>
@@ -403,9 +358,49 @@
 <Point><coordinates>138.4089,36.7564,0</coordinates></Point>
 </Placemark>
 <Placemark>
+<name>Kamikochi</name>
+<description>Leg 8: Chubu/Alps — detour &middot; ★★★★</description>
+<Point><coordinates>137.6425,36.2583,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kegon-ji Temple</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.7619,35.4437,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kumano Fireworks Festival</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.0408,33.9035,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Monet's Pond</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.8910,35.5430,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nabana no Sato</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.6582,35.0586,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Narai-juku (Narai Post Town)</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>137.7269,35.8225,0</coordinates></Point>
+</Placemark>
+<Placemark>
 <name>Sado Island</name>
 <description>Leg 8: Chubu/Alps &middot; ★★</description>
 <Point><coordinates>138.3000,38.0500,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sangi Railway</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.5083,34.7302,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Shirakawa-go</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.9064,36.2565,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Taki Shrine</name>
@@ -413,9 +408,9 @@
 <Point><coordinates>136.8598652,35.6260122,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Taikodani Inari Shrine</name>
-<description>Leg 9: San'in — future &middot; ★★</description>
-<Point><coordinates>131.7875,34.4169,0</coordinates></Point>
+<name>Togakushi Shrine</name>
+<description>Leg 8: Chubu/Alps &middot; ★★★★</description>
+<Point><coordinates>138.0322,36.7350,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Adachi Museum of Art</name>
@@ -423,7 +418,7 @@
 <Point><coordinates>133.2369,35.4300,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Tsuwano Street / Tsuwano Old Town</name>
+<name>Taikodani Inari Shrine</name>
 <description>Leg 9: San'in — future &middot; ★★</description>
 <Point><coordinates>131.7875,34.4169,0</coordinates></Point>
 </Placemark>
@@ -433,19 +428,9 @@
 <Point><coordinates>134.2314,35.5039,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Nagoro Scarecrow Village</name>
-<description>Leg 10: Off-spine &middot; ★</description>
-<Point><coordinates>133.9375,33.8425,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Mount Yotel (Mount Yotei)</name>
-<description>Leg 10: Off-spine &middot; ★</description>
-<Point><coordinates>140.8039,42.8735,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Yamadera Temple</name>
-<description>Leg 10: Off-spine &middot; ★</description>
-<Point><coordinates>140.3635,38.2590,0</coordinates></Point>
+<name>Tsuwano Street / Tsuwano Old Town</name>
+<description>Leg 9: San'in — future &middot; ★★</description>
+<Point><coordinates>131.7875,34.4169,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Dogo Onsen</name>
@@ -453,14 +438,34 @@
 <Point><coordinates>132.7850817,33.8504258,0</coordinates></Point>
 </Placemark>
 <Placemark>
+<name>Eiheiji Temple</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>136.3560152,36.0557075,0</coordinates></Point>
+</Placemark>
+<Placemark>
 <name>Ginzan Onsen</name>
 <description>Leg 10: Off-spine &middot; ★</description>
 <Point><coordinates>140.5300687,38.5704194,0</coordinates></Point>
 </Placemark>
 <Placemark>
+<name>Mount Yotel (Mount Yotei)</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>140.8039,42.8735,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nagoro Scarecrow Village</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>133.9375,33.8425,0</coordinates></Point>
+</Placemark>
+<Placemark>
 <name>Oirase Gorge</name>
 <description>Leg 10: Off-spine — future &middot; ★</description>
 <Point><coordinates>140.974500,40.525278,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sannobo Hie Shrine</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>140.3678921,41.0665800,0</coordinates></Point>
 </Placemark>
 <Placemark>
 <name>Takaragawa Onsen Osenkaku</name>
@@ -473,14 +478,9 @@
 <Point><coordinates>140.4431732,38.3179329,0</coordinates></Point>
 </Placemark>
 <Placemark>
-<name>Eiheiji Temple</name>
+<name>Yamadera Temple</name>
 <description>Leg 10: Off-spine &middot; ★</description>
-<Point><coordinates>136.3560152,36.0557075,0</coordinates></Point>
-</Placemark>
-<Placemark>
-<name>Sannobo Hie Shrine</name>
-<description>Leg 10: Off-spine &middot; ★</description>
-<Point><coordinates>140.3678921,41.0665800,0</coordinates></Point>
+<Point><coordinates>140.3635,38.2590,0</coordinates></Point>
 </Placemark>
 </Document>
 </kml>
