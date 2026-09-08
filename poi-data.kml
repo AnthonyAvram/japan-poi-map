@@ -1,583 +1,486 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-  <name>Japan POI Registry (by prefecture)</name>
-  <description>Color-coded by prefecture. on-spine vs off-spine detour shown in the note.</description>
-  <Placemark>
-    <name>Mount Fuji</name>
-    <description><![CDATA[Yamanashi &middot; ★★ &middot; on-spine<br/>Early‑morning sunrise visit (JR Chūō Line → Fuji‑Kyūko Line)]]></description>
-    <Style><IconStyle><color>#ff3c7cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>138.7274,35.3606,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Asaba Ryokan</name>
-    <description><![CDATA[Yamanashi &middot; ★★ &middot; on-spine<br/>Kawaguchiko – Accommodation (Ryokan) – Traditional ryokan with Lake Kawaguchiko views, on‑sen]]></description>
-    <Style><IconStyle><color>#ff3c7cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>138.7648,35.5065,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Kamikochi</name>
-    <description><![CDATA[Nagano &middot; ★★★★ &middot; on-spine<br/>Nature / Hiking (Japanese Alps) – Highland valley in the Northern Japan Alps; accessible via bus from Matsumoto or Takayama]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>137.6425,36.2583,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Hiroshima</name>
-    <description><![CDATA[Hiroshima &middot; ★★ &middot; on-spine<br/>Visit Peace Memorial Park, Museum, Atomic Bomb Dome]]></description>
-    <Style><IconStyle><color>#ff9eec3c</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>132.4553,34.3853,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Shinsho-ji Temple / Shinsho-ji Zen Museum and Gardens</name>
-    <description><![CDATA[Hiroshima &middot; ★★ &middot; on-spine<br/>Temple / Garden / Museum – Zen temple with beautiful gardens and a modern museum showcasing tea ceremony artifacts]]></description>
-    <Style><IconStyle><color>#ff9eec3c</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>133.1725,34.4969,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Itsukushima Shrine (Miyajima)</name>
-    <description><![CDATA[Hiroshima &middot; ★★★★ &middot; on-spine<br/>Shrine / Island – Iconic floating torii gate; explore Miyajima island, deer, and Mount Misen]]></description>
-    <Style><IconStyle><color>#ff9eec3c</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>132.3196,34.2952,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Kagoshima</name>
-    <description><![CDATA[Kagoshima &middot; ★★ &middot; on-spine<br/>Southern Kyushu city known for Sakurajima volcano, Satsuma cuisine, and historic sites like Sengan‑en]]></description>
-    <Style><IconStyle><color>#ffec3cc0</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>130.558,31.5601,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Kirishima Shrine</name>
-    <description><![CDATA[Kagoshima &middot; ★★ &middot; on-spine<br/>Shrine – Ancient shrine surrounded by forest and volcanic landscape, part of the Kirishima‑Yaku National Park]]></description>
-    <Style><IconStyle><color>#ffec3cc0</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>130.8626,31.9028,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Mizonokuchi Shrine / Mizonochi Cave</name>
-    <description><![CDATA[Miyazaki &middot; ★★ &middot; on-spine<br/>Shrine / Cave – Cave shrine with stalactites; associated with water deities; scenic walking trails]]></description>
-    <Style><IconStyle><color>#ffec3c80</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>131.4239,31.911,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Ogawa Falls</name>
-    <description><![CDATA[Kagoshima &middot; ★★ &middot; on-spine<br/>Waterfall – Picturesque multi‑tiered waterfall in lush forest; great for hiking and photography]]></description>
-    <Style><IconStyle><color>#ffec3cc0</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>130.658,30.3525,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Yakushima Island</name>
-    <description><![CDATA[Kagoshima &middot; ★★★★ &middot; on-spine<br/>Island / Natural site – UNESCO World Heritage site known for ancient cedar forests, wildlife, and hiking trails; the cedar forests inspired Princess Mononoke. Ghibli real-world spot.]]></description>
-    <Style><IconStyle><color>#ffec3cc0</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>130.55,30.3833,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Cheonan Kawara / Amano Iwato Cave</name>
-    <description><![CDATA[Miyazaki &middot; ★★ &middot; on-spine<br/>Cave / Mythological site – Amano Iwato (Heavenly Rock Cave) where Amaterasu hid; nearby Cheonan Kawara rock formations]]></description>
-    <Style><IconStyle><color>#ffec3c80</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>131.3045,32.708,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Takachino Gorge</name>
-    <description><![CDATA[Miyazaki &middot; ★★★★ &middot; on-spine<br/>Gorge / Scenic spot – Verdant gorge with walking trails and waterfalls, popular for autumn colours]]></description>
-    <Style><IconStyle><color>#ffec3c80</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>131.33,32.73,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Udo Shrine</name>
-    <description><![CDATA[Miyazaki &middot; ★★ &middot; on-spine<br/>Shrine / Coastal cave – Unique shrine built inside a cave facing the ocean, dedicated to Yamasachihiko]]></description>
-    <Style><IconStyle><color>#ffec3c80</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>131.425,31.56,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Monet&#x27;s Pond</name>
-    <description><![CDATA[Gifu &middot; ★★ &middot; on-spine<br/>Also known as \Monet's Pond\" (Monroe no Ike)]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>136.891,35.543,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Kegon-ji Temple</name>
-    <description><![CDATA[Gifu &middot; ★★ &middot; on-spine<br/>Historic temple known for its beautiful garden and seasonal flowers]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>136.7619,35.4437,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Shirakawa-go</name>
-    <description><![CDATA[Gifu &middot; ★★ &middot; on-spine<br/>Village / UNESCO site – UNESCO World Heritage site featuring traditional gassho‑zukuri farmhouses]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>136.9064,36.2565,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Taikodani Inari Shrine</name>
-    <description><![CDATA[Shimane &middot; ★★ &middot; on-spine<br/>Shrine – Famous for its thousands of red torii gates leading up the mountainside]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>131.7875,34.4169,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Adachi Museum of Art</name>
-    <description><![CDATA[Shimane &middot; ★★ &middot; on-spine<br/>Renowned for its Japanese garden and collection of modern Japanese paintings]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>133.2369,35.43,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Tsuwano Street / Tsuwano Old Town</name>
-    <description><![CDATA[Shimane &middot; ★★ &middot; on-spine<br/>Town / Historic district – Preserved Edo‑period atmosphere with traditional houses, sake breweries, and the Taikodani Inari approach]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>131.7875,34.4169,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Nabana no Sato</name>
-    <description><![CDATA[Mie &middot; ★★ &middot; on-spine<br/>Flower park / Illumination – Famous for seasonal flower displays and winter illumination]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>136.6582,35.0586,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Sangi Railway</name>
-    <description><![CDATA[Mie &middot; ★★ &middot; on-spine<br/>Railway / Scenic line – Scenic local railway running through Mie, popular for autumn views]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>136.5083,34.7302,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Kumano Fireworks Festival</name>
-    <description><![CDATA[Mie &middot; ★★ &middot; on-spine<br/>Annual fireworks display over the Kumano River, held in summer (check dates)]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>136.0408,33.9035,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Narai-juku (Narai Post Town)</name>
-    <description><![CDATA[Nagano &middot; ★★ &middot; on-spine<br/>Nagano Prefecture (Kiso Valley) – Town / Historic post town – Well‑preserved Edo‑period post town along the Nakasendo, known for its traditional wooden buildings]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>137.7269,35.8225,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Togakushi Shrine</name>
-    <description><![CDATA[Nagano &middot; ★★★★ &middot; on-spine<br/>Complex of five shrines nestled in forested mountains, famous for its long avenue of cedar trees and zigzag path]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>138.0322,36.735,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Jigokudani Monkey Park</name>
-    <description><![CDATA[Nagano &middot; ★★ &middot; on-spine<br/>Wildlife / Snow monkeys – Famous for wild Japanese macaques bathing in hot springs during winter]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>138.4089,36.7564,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Hasedera Temple (Nagaya Temple)</name>
-    <description><![CDATA[Nara &middot; ★★ &middot; on-spine<br/>Temple – Also known as Hasedera, famous for its large wooden Kannon statue and beautiful gardens]]></description>
-    <Style><IconStyle><color>#ff3cec9b</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.8605,34.5115,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Hazonji Temple (Baoshan Temple)</name>
-    <description><![CDATA[Nara &middot; ★★ &middot; on-spine<br/>Temple – Known as Hazon‑ji, historic temple with beautiful autumn foliage]]></description>
-    <Style><IconStyle><color>#ff3cec9b</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.8049,34.6853,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Tsubasoka Temple</name>
-    <description><![CDATA[Nara &middot; ★★ &middot; on-spine<br/>Temple – Small temple in Nara known for its serene atmosphere]]></description>
-    <Style><IconStyle><color>#ff3cec9b</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.805,34.685,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Saga</name>
-    <description><![CDATA[Saga &middot; ★★ &middot; on-spine<br/>Prefecture / Region – Prefecture in Kyushu known for ceramics, hot springs, and rural landscapes]]></description>
-    <Style><IconStyle><color>#ffecb93c</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>130.2986,33.2494,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Suginohara Ranch</name>
-    <description><![CDATA[Saga &middot; ★★ &middot; on-spine<br/>Ranch / Scenic spot – Ranch offering horseback riding and pastoral views; check exact location within Saga]]></description>
-    <Style><IconStyle><color>#ffecb93c</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>130.3,33.25,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Okawachiyama</name>
-    <description><![CDATA[Saga &middot; ★★ &middot; on-spine<br/>Imari, Saga – Pottery village famous for Imari ware and traditional kilns]]></description>
-    <Style><IconStyle><color>#ffecb93c</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>129.8943208,33.2338557,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Torii Sea / Uo Shrine Torii Gate</name>
-    <description><![CDATA[Saga &middot; ★★ &middot; on-spine<br/>Shrine / Coastal torii – Scenic torii gate standing in the sea, part of Uo Shrine (also called Ouo Shrine)]]></description>
-    <Style><IconStyle><color>#ffecb93c</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>130.0189,33.4375,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Oita Ghibli Tunnel</name>
-    <description><![CDATA[Oita &middot; ★★ &middot; on-spine<br/>Tunnel / Scenic spot – Tunnel decorated with Studio Ghibli‑themed artwork, popular for photos and trains]]></description>
-    <Style><IconStyle><color>#ffec793c</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>131.6078,33.2369,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Amanoyasukawara (Amano Iwato area)</name>
-    <description><![CDATA[Miyazaki &middot; ★★ &middot; on-spine<br/>Miyazaki Prefecture (Takachiho) – Mythological site / Plain – Sacred plain before Amano Iwato cave where the gods gathered to lure Amaterasu out]]></description>
-    <Style><IconStyle><color>#ffec3c80</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>131.3045,32.708,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Sado Island</name>
-    <description><![CDATA[Niigata &middot; ★★ &middot; on-spine<br/>Island / Cultural site – Known for its historic gold mines, traditional performing arts (Ondeko), and scenic coastline]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>138.3,38.05,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Tottori Sand Dunes</name>
-    <description><![CDATA[Tottori &middot; ★★ &middot; on-spine<br/>Natural landmark / Sand dunes – Japan's largest sand dunes, featuring camel rides, sand sculptures, and coastal views]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>134.2314,35.5039,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Nagoro Scarecrow Village</name>
-    <description><![CDATA[Tokushima &middot; ★ &middot; off-spine<br/>Village known for its many life‑sized scarecrow dolls placed around the depopulated area]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>0.8</scale></IconStyle></Style>
-    <Point><coordinates>133.9375,33.8425,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Mount Yotel (Mount Yotei)</name>
-    <description><![CDATA[Hokkaido &middot; ★ &middot; off-spine<br/>Mountain / Volcanic – Also known as Mount Yotei, popular for skiing and autumn hiking; located near Niseko]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>0.8</scale></IconStyle></Style>
-    <Point><coordinates>140.8039,42.8735,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Katsura Rikyu</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>Palace / Garden – Imperial villa and garden in western Kyoto, renowned for its traditional architecture and landscape design]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.732,34.9874,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Yamadera Temple</name>
-    <description><![CDATA[Yamagata &middot; ★ &middot; off-spine<br/>Temple – Also known as Risshaku‑ji, famous for its stone steps and panoramic mountain views]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>0.8</scale></IconStyle></Style>
-    <Point><coordinates>140.3635,38.259,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Chiba Prefecture</name>
-    <description><![CDATA[Chiba &middot; ★★ &middot; on-spine<br/>Prefecture / Region – Prefecture east of Tokyo known for Tokyo Disney Resort, Narita Airport, and coastal scenery]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>140.1084,35.6047,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Sensō-ji Temple</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Tokyo's oldest and most significant Buddhist temple, famous for its Kaminarimon gate and Nakamise shopping street]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.7967,35.7148,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Imperial Palace</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Imperial residence, iconic Nijubashi double bridge]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.7535986,35.6802215,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Akiyoshido Cave</name>
-    <description><![CDATA[Yamaguchi &middot; ★★ &middot; on-spine<br/>Cave / Natural site – One of Japan's largest limestone caves, part of Akiyoshidai Quasi‑National Park]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>131.2365,34.215,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Kumanoza Shrine</name>
-    <description><![CDATA[Kumamoto &middot; ★★ &middot; on-spine<br/>Shrine – Historic shrine in Kumamoto associated with Kumano faith, surrounded by forest]]></description>
-    <Style><IconStyle><color>#ffec3c3f</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>130.7418,32.7898,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Mandarake Nakano Broadway</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Nakano · vintage anime figure goldmine]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.6659,35.7064,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Mandarake Shibuya</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Shibuya Udagawacho · second-hand figures]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.6986,35.6596,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Anime-center Akihabara</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Akihabara · anime shopping/arcade]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.7715,35.702,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Tokyo Tower</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Minato · landmark view]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.7454,35.6586,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Meiji Shrine</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Shibuya · shrine, forest path]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.6993,35.6764,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Ghibli Museum</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Mitaka · museum, advance reservation]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.5708,35.6963,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Fukuoka</name>
-    <description><![CDATA[Fukuoka &middot; ★★ &middot; on-spine<br/>Hakata tonkotsu ramen birthplace (Ichiran/Ippudo); underrated city, fewer crowds + cheaper hotels than Tokyo/Kyoto/Osaka. From sponsored city-hype video.]]></description>
-    <Style><IconStyle><color>#ffdeec3c</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>130.4017,33.5904,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Hannya-ji Temple</name>
-    <description><![CDATA[Nara &middot; ★★ &middot; on-spine<br/>Nara temple, flower-framed in cosmos season, quieter than the main temple crowds.]]></description>
-    <Style><IconStyle><color>#ff3cec9b</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.7982,34.6722,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Futai-ji Temple</name>
-    <description><![CDATA[Nara &middot; ★★ &middot; on-spine<br/>Nara temple, quiet old architecture and a pond garden.]]></description>
-    <Style><IconStyle><color>#ff3cec9b</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.804,34.6883,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Takisaka no Michi</name>
-    <description><![CDATA[Nara &middot; ★★ &middot; on-spine<br/>Mossy stone trail through forest history near Nara; wear grip shoes.]]></description>
-    <Style><IconStyle><color>#ff3cec9b</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.845,34.683,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Soni Highland</name>
-    <description><![CDATA[Nara &middot; ★★ &middot; on-spine<br/>Wide pampas-grass hills and sunset views in Nara; check bus times.]]></description>
-    <Style><IconStyle><color>#ff3cec9b</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>136.086,34.518,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Mitarai Valley</name>
-    <description><![CDATA[Nara &middot; ★★ &middot; on-spine<br/>Clear river pools and gorge scenery in Nara.]]></description>
-    <Style><IconStyle><color>#ff3cec9b</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.9,34.5,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Asuka Stone Monuments</name>
-    <description><![CDATA[Nara &middot; ★★ &middot; on-spine<br/>Ancient carved stones in rural Nara landscape, 6th-century era.]]></description>
-    <Style><IconStyle><color>#ff3cec9b</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.8167,34.4667,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Dogo Onsen</name>
-    <description><![CDATA[Ehime &middot; ★ &middot; off-spine<br/>Matsuyama, Ehime — oldest hot spring in Japan; inspired Spirited Away bathhouse. Ghibli real-world spot (off-mainland detour).]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>0.8</scale></IconStyle></Style>
-    <Point><coordinates>132.7850817,33.8504258,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Tomonoura</name>
-    <description><![CDATA[Hiroshima &middot; ★★ &middot; on-spine<br/>Hiroshima fishing village that inspired Ponyo's seaside town. Ghibli real-world spot.]]></description>
-    <Style><IconStyle><color>#ff9eec3c</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>133.3803274,34.3808768,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Seiseki-Sakuragaoka</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Tokyo hillside town (Tama) that inspired Whisper of the Heart. Ghibli real-world spot.]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.4470446,35.6508541,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Sayama Hills</name>
-    <description><![CDATA[Saitama &middot; ★★ &middot; on-spine<br/>Saitama wooded hills that inspired My Neighbor Totoro. Ghibli real-world spot.]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.3981823,35.7620951,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Nachi Falls</name>
-    <description><![CDATA[Wakayama &middot; ★★★★ &middot; on-spine<br/>Japan's tallest single-drop waterfall (133m) and largest of the 48 Nachi Falls — sacred to Hiro Shrine, which worships the waterfall as its deity. Crest 13m, basin 10m deep, ~1 ton water/sec. Free view area, small fee for closest deck. Misty/otherworldly on rainy days.]]></description>
-    <Style><IconStyle><color>#ff5eec3c</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.8876266,33.6752833,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Aogashima Island</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Remote volcanic island in the Izu chain; lush cliffs + turquoise water. Free to explore but need ferry/helicopter to reach. From 'Unreal places' slideshow.]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.7674692,32.458249,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Hitachi Seaside Park</name>
-    <description><![CDATA[Ibaraki &middot; ★★ &middot; on-spine<br/>Seasonal flower fields (blue nemophila hills); small entrance fee, best season varies. From 'Unreal places' slideshow.]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>140.5943473,36.4025276,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Arashiyama Bamboo Forest</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>Kyoto's iconic bamboo grove; free entry, best early morning. Real talk (Kyoto guide Naoya, 09-05): it looks stunning in photos but the actual walk is SHORT and way too crowded — low ROI. Consider Philosopher's Path (recommended) or Kibune instead.]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.6711482,35.0167419,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Lake Kawaguchi</name>
-    <description><![CDATA[Yamanashi &middot; ★★ &middot; on-spine<br/>One of the best Mount Fuji view spots; free; beautiful in cherry-blossom and autumn seasons. From 'Unreal places' slideshow.]]></description>
-    <Style><IconStyle><color>#ff3c7cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>138.7448243,35.5130603,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Ginzan Onsen</name>
-    <description><![CDATA[Yamagata &middot; ★ &middot; off-spine<br/>Charming traditional hot-spring town, magical in winter; walking free, baths have entrance fee. From 'Unreal places' slideshow.]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>0.8</scale></IconStyle></Style>
-    <Point><coordinates>140.5300687,38.5704194,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Oirase Gorge</name>
-    <description><![CDATA[Aomori &middot; ★ &middot; off-spine<br/>Scenic 14km stream valley from Lake Towada; free walking trail, lush forest and waterfalls. From 'Unreal places' slideshow.]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>0.8</scale></IconStyle></Style>
-    <Point><coordinates>140.9745,40.525278,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Takaragawa Onsen Osenkaku</name>
-    <description><![CDATA[Gunma &middot; ★ &middot; off-spine<br/>Gunma riverside onsen (Minakami) — outdoor mixed rotenburo pools along a river in a misty forest; steam + traditional wooden buildings. From 'wake up to soft rain' onsen video.]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>0.8</scale></IconStyle></Style>
-    <Point><coordinates>139.0468165,36.8479555,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Kegon Falls</name>
-    <description><![CDATA[Tochigi &middot; ★★ &middot; on-spine<br/>Nikko (Tochigi) — the real view is from the lower deck: take the underground elevator down (tunnel walk + reveal are part of it); ~$4 cash only. Top free lookout is the lesser view. Day-trip from Tokyo via Tobu Nikko Line (book direct trains 2+ wks ahead).]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.5019683,36.7380094,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Shibuya Hikarie Sky Lobby</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Free 11F sky lobby 2 min from Shibuya station — huge-window view over Shibuya Crossing; great photos. Address: 2-21-1 Shibuya. Free Tokyo viewpoint (from Tokyo tour video).]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.7036853,35.6591803,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Tower Hall Funabori Observation Tower</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Free observation deck at 103m in Edogawa; hidden gem, no tourists — see Skytree, Tokyo Tower, Mt Fuji, whole city. Address: 4-1-1 Funabori. Free Tokyo viewpoint (from Tokyo tour video).]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.8649112,35.6843894,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Asakusa Culture Tourist Information Center</name>
-    <description><![CDATA[Tokyo &middot; ★★ &middot; on-spine<br/>Free 8F observation terrace steps from Kaminarimon — view over Sensoji Temple + Tokyo Skytree. Address: 2-18-9 Kaminarimon, Taito. Free Tokyo viewpoint.]]></description>
-    <Style><IconStyle><color>#ff3c3cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>139.796528,35.710667,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Philosopher&#x27;s Path</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>Kyoto canal-side walk; RECOMMENDED by guide Naoya — beautiful residential views esp. cherry-blossom and autumn seasons; great photos. (from 09-05 guide verdicts)]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.7963761,35.0247911,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Kibune</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>Mountain village north of Kyoto; RECOMMENDED by guide Naoya — a bit far from the city but the best nature of Kyoto, cooler seasons (kawadoko river dining). (from 09-05 guide verdicts)]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.76425,35.1225862,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Eikando Temple</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>Kyoto autumn spot #1 (guide Naoya): famous autumn foliage + night illumination/light show, very popular with locals. Trip is Oct — check foliage timing.]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.790817,35.0146816,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Tofukuji Temple</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>Kyoto autumn spot #2 (guide Naoya): spectacular autumn leaves over Tsutenkyo bridge; often compared to Fushimi Inari crowds but this is THE autumn-view temple.]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.7736932,34.9760806,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Rurikoin Temple</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>Kyoto autumn spot #3 (guide Naoya): autumn maple reflections on the polished table inside — REQUIRES reservation, limited entry.]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.808589,35.0634463,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Shiraito Falls</name>
-    <description><![CDATA[Shizuoka &middot; ★★ &middot; on-spine<br/>UNESCO World Heritage waterfall near Mt. Fuji (part of the Fuji listing); featured in Fuji Soul Tours stopover itinerary. Fuji area day stop.]]></description>
-    <Style><IconStyle><color>#ff3cbcec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>138.5872234,35.312991,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Kitaguchi Hongu Fuji Sengen Shrine</name>
-    <description><![CDATA[Yamanashi &middot; ★★ &middot; on-spine<br/>The main shrine of Mt. Fuji (north base, Fujiyoshida); traditional starting point of the Fuji climb. Featured in Fuji Soul Tours stopover itinerary.]]></description>
-    <Style><IconStyle><color>#ff3c7cec</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>138.7926376,35.4710138,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Fushimi Inari Taisha</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>Iconic shrine with thousands of torii gates. Naoya's one-day route: GO 6-7am to beat the crowds (earlier he flagged it as too crowded LATER in the day — timing is everything).]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.7797101,34.9675192,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Kiyomizu-dera</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>UNESCO temple in Higashiyama. Naoya one-day route: beautiful, but crowded — visit via the Higashiyama/Ninenzaka photo route. Was flagged 'too crowded' but route says worth it early.]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.7844389,34.994303,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Gion District</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>Kyoto's famous geisha/maiko district (Hanamachi). Naoya one-day route stop.]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.778403,35.0046897,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Nishiki Market</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>Kyoto's downtown covered food market ('Kyoto's kitchen'), 400yr old. Naoya one-day route: great lunch stop.]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.7655699,35.0050244,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Nijo Castle</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>UNESCO World Heritage castle, 400-year-old palace. Naoya one-day route: afternoon stop if energy remains.]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.7485369,35.0140076,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Pontocho Alley</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>Atmospheric dining/drinks alley by the Kamo River. Naoya one-day route: dinner + drinks end-of-day; kawadoko riverside dining this season.]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.7712126,35.0042456,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Tarumizu Ruins</name>
-    <description><![CDATA[Yamagata &middot; ★ &middot; off-spine<br/>Hidden otherworldly ruins next to Yamadera — honeycomb rock + torii, ~15 min walk off the approach path. From 'otherworld Japan' video.]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>0.8</scale></IconStyle></Style>
-    <Point><coordinates>140.4431732,38.3179329,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Taki Shrine</name>
-    <description><![CDATA[Gifu &middot; ★★ &middot; on-spine<br/>Scenic shrine, breathtaking otherworld setting (in Gifu). From 'otherworld Japan' video.]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>136.8598652,35.6260122,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Kashima Jingu Shrine</name>
-    <description><![CDATA[Ibaraki &middot; ★★ &middot; on-spine<br/>One of Japan's most important/oldest shrines — powerful otherworld atmosphere. From 'hidden wonderland' otherworld video.]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>140.6260511,35.9706555,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Shipporyuji Temple</name>
-    <description><![CDATA[Osaka &middot; ★★ &middot; on-spine<br/>Hidden otherworld temple in the Osaka hills. From 'hidden wonderland' otherworld video.]]></description>
-    <Style><IconStyle><color>#ff3cec5a</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.3877684,34.3383538,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Eiheiji Temple</name>
-    <description><![CDATA[Fukui &middot; ★ &middot; off-spine<br/>Famous Soto Zen head temple in Fukui — forest setting. From 'hidden wonderland' otherworld video.]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>0.8</scale></IconStyle></Style>
-    <Point><coordinates>136.3560152,36.0557075,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Sannobo Hie Shrine</name>
-    <description><![CDATA[Aomori &middot; ★ &middot; off-spine<br/>Hie/Hiyoshi shrine in Aomori — otherworld forest setting. From 'hidden wonderland' otherworld video.]]></description>
-    <Style><IconStyle><color>#ff988f8a</color><scale>0.8</scale></IconStyle></Style>
-    <Point><coordinates>140.3678921,41.06658,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Nene-no-Michi</name>
-    <description><![CDATA[Kyoto &middot; ★★ &middot; on-spine<br/>Scenic stone-paved path in Higashiyama, Kyoto (near Kiyomizu/Kodai-ji) with bamboo + lantern-lit atmosphere. Home of the summer Higashiyama Bamboo Light-Up (moon-viewing road) — but that light show runs JULY-AUG only, ended for our Oct trip. Street itself is lovely year-round.]]></description>
-    <Style><IconStyle><color>#ff3cecdb</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>135.77995,35.0005286,0</coordinates></Point>
-  </Placemark>
-  <Placemark>
-    <name>Takasumi Shrine</name>
-    <description><![CDATA[Fukuoka &middot; ★★ &middot; on-spine<br/>Mystical shrine at ~800m on the slopes of Mt. Hiko, Fukuoka — above-the-clouds scenery, magical in rain/mist. Featured in a DJI Pocket 4 cinematic video.]]></description>
-    <Style><IconStyle><color>#ffdeec3c</color><scale>1.1</scale></IconStyle></Style>
-    <Point><coordinates>130.9329879,33.4840463,0</coordinates></Point>
-  </Placemark>
+<name>Japan POI Registry</name>
+<Placemark>
+<name>Mount Fuji</name>
+<description>Leg 1: Fuji / Yamanashi (day 2) &middot; ★★</description>
+<Point><coordinates>138.7274,35.3606,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Asaba Ryokan</name>
+<description>Leg 1: Fuji / Yamanashi (day 2) &middot; ★★</description>
+<Point><coordinates>138.7648,35.5065,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Lake Kawaguchi</name>
+<description>Leg 1: Fuji / Yamanashi (day 2) &middot; ★★</description>
+<Point><coordinates>138.7448243,35.5130603,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Shiraito Falls</name>
+<description>Leg 1: Fuji / Yamanashi (day 2) &middot; ★★</description>
+<Point><coordinates>138.5872234,35.3129910,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kitaguchi Hongu Fuji Sengen Shrine</name>
+<description>Leg 1: Fuji / Yamanashi (day 2) &middot; ★★</description>
+<Point><coordinates>138.7926376,35.4710138,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hasedera Temple (Nagaya Temple)</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.8605,34.5115,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hazonji Temple (Baoshan Temple)</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.8049,34.6853,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tsubasoka Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.8050,34.6850,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Katsura Rikyu</name>
+<description>Leg 2: Kansai (Kyoto/Nara/Osaka/Wakayama) &middot; ★★</description>
+<Point><coordinates>135.7320,34.9874,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hannya-ji Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7982,34.6722,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Futai-ji Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.8040,34.6883,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Takisaka no Michi</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.8450,34.6830,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Soni Highland</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>136.0860,34.5180,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mitarai Valley</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.9000,34.5000,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Asuka Stone Monuments</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.8167,34.4667,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nachi Falls</name>
+<description>Leg 2: Kansai &middot; ★★★★</description>
+<Point><coordinates>135.8876266,33.6752833,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Arashiyama Bamboo Forest</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.6711482,35.0167419,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Philosopher's Path</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7963761,35.0247911,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kibune</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7642500,35.1225862,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Eikando Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7908170,35.0146816,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tofukuji Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7736932,34.9760806,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Rurikoin Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.8085890,35.0634463,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fushimi Inari Taisha</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7797101,34.9675192,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kiyomizu-dera</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7844389,34.9943030,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gion District</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7784030,35.0046897,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nishiki Market</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7655699,35.0050244,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nijo Castle</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7485369,35.0140076,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pontocho Alley</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7712126,35.0042456,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Shipporyuji Temple</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.3877684,34.3383538,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nene-no-Michi</name>
+<description>Leg 2: Kansai &middot; ★★</description>
+<Point><coordinates>135.7799500,35.0005286,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hiroshima</name>
+<description>Leg 3: Hiroshima / Chugoku &middot; ★★</description>
+<Point><coordinates>132.4553,34.3853,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Shinsho-ji Temple / Shinsho-ji Zen Museum and Gardens</name>
+<description>Leg 3: Hiroshima / Chugoku &middot; ★★</description>
+<Point><coordinates>133.1725,34.4969,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Itsukushima Shrine (Miyajima)</name>
+<description>Leg 3: Hiroshima / Chugoku &middot; ★★★★</description>
+<Point><coordinates>132.3196,34.2952,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Akiyoshido Cave</name>
+<description>Leg 3: Hiroshima / Chugoku &middot; ★★</description>
+<Point><coordinates>131.2365,34.2150,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tomonoura</name>
+<description>Leg 3: Hiroshima / Chugoku &middot; ★★</description>
+<Point><coordinates>133.3803274,34.3808768,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Saga</name>
+<description>Leg 4: North Kyushu &middot; ★★</description>
+<Point><coordinates>130.2986,33.2494,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Suginohara Ranch</name>
+<description>Leg 4: North Kyushu &middot; ★★</description>
+<Point><coordinates>130.3000,33.2500,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Okawachiyama</name>
+<description>Leg 4: North Kyushu &middot; ★★</description>
+<Point><coordinates>129.8943208,33.2338557,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Torii Sea / Uo Shrine Torii Gate</name>
+<description>Leg 4: North Kyushu &middot; ★★</description>
+<Point><coordinates>130.0189,33.4375,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oita Ghibli Tunnel</name>
+<description>Leg 4: North Kyushu &middot; ★★</description>
+<Point><coordinates>131.6078,33.2369,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kumanoza Shrine</name>
+<description>Leg 4: North Kyushu &middot; ★★</description>
+<Point><coordinates>130.7418,32.7898,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fukuoka</name>
+<description>Leg 4: North Kyushu &middot; ★★</description>
+<Point><coordinates>130.4017,33.5904,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Takasumi Shrine</name>
+<description>Leg 4: North Kyushu &middot; ★★</description>
+<Point><coordinates>130.9329879,33.4840463,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mizonokuchi Shrine / Mizonochi Cave</name>
+<description>Leg 5: Miyazaki (Takachiho/Amano Iwato) &middot; ★★</description>
+<Point><coordinates>131.4239,31.9110,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cheonan Kawara / Amano Iwato Cave</name>
+<description>Leg 5: Miyazaki &middot; ★★</description>
+<Point><coordinates>131.3045,32.7080,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Takachino Gorge</name>
+<description>Leg 5: Miyazaki &middot; ★★★★</description>
+<Point><coordinates>131.3300,32.7300,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Udo Shrine</name>
+<description>Leg 5: Miyazaki &middot; ★★</description>
+<Point><coordinates>131.4250,31.5600,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Amanoyasukawara (Amano Iwato area)</name>
+<description>Leg 5: Miyazaki &middot; ★★</description>
+<Point><coordinates>131.3045,32.7080,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kagoshima</name>
+<description>Leg 6: Kagoshima (the bottom) &middot; ★★</description>
+<Point><coordinates>130.5580,31.5601,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kirishima Shrine</name>
+<description>Leg 6: Kagoshima &middot; ★★</description>
+<Point><coordinates>130.8626,31.9028,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ogawa Falls</name>
+<description>Leg 6: Kagoshima &middot; ★★</description>
+<Point><coordinates>130.6580,30.3525,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Yakushima Island</name>
+<description>Leg 6: Kagoshima — island (contested) &middot; ★★★★</description>
+<Point><coordinates>130.5500,30.3833,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chiba Prefecture</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>140.1084,35.6047,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sensō-ji Temple</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.7967,35.7148,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Imperial Palace</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.7535986,35.6802215,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mandarake Nakano Broadway</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.6659,35.7064,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mandarake Shibuya</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.6986,35.6596,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Anime-center Akihabara</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.7715,35.7020,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tokyo Tower</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.7454,35.6586,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Meiji Shrine</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.6993,35.6764,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ghibli Museum</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.5708,35.6963,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Seiseki-Sakuragaoka</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.4470446,35.6508541,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sayama Hills</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.3981823,35.7620951,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Aogashima Island</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.7674692,32.4582490,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hitachi Seaside Park</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>140.5943473,36.4025276,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kegon Falls</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.5019683,36.7380094,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Shibuya Hikarie Sky Lobby</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.7036853,35.6591803,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tower Hall Funabori Observation Tower</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.8649112,35.6843894,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Asakusa Culture Tourist Information Center</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>139.796528,35.710667,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kashima Jingu Shrine</name>
+<description>Leg 7: Tokyo FINAL &middot; ★★</description>
+<Point><coordinates>140.6260511,35.9706555,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kamikochi</name>
+<description>Leg 8: Chubu/Alps — detour &middot; ★★★★</description>
+<Point><coordinates>137.6425,36.2583,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Monet's Pond</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.8910,35.5430,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kegon-ji Temple</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.7619,35.4437,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Shirakawa-go</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.9064,36.2565,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nabana no Sato</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.6582,35.0586,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sangi Railway</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.5083,34.7302,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kumano Fireworks Festival</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.0408,33.9035,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Narai-juku (Narai Post Town)</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>137.7269,35.8225,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Togakushi Shrine</name>
+<description>Leg 8: Chubu/Alps &middot; ★★★★</description>
+<Point><coordinates>138.0322,36.7350,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Jigokudani Monkey Park</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>138.4089,36.7564,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sado Island</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>138.3000,38.0500,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Taki Shrine</name>
+<description>Leg 8: Chubu/Alps &middot; ★★</description>
+<Point><coordinates>136.8598652,35.6260122,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Taikodani Inari Shrine</name>
+<description>Leg 9: San'in — future &middot; ★★</description>
+<Point><coordinates>131.7875,34.4169,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Adachi Museum of Art</name>
+<description>Leg 9: San'in — future &middot; ★★</description>
+<Point><coordinates>133.2369,35.4300,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tsuwano Street / Tsuwano Old Town</name>
+<description>Leg 9: San'in — future &middot; ★★</description>
+<Point><coordinates>131.7875,34.4169,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tottori Sand Dunes</name>
+<description>Leg 9: San'in — future &middot; ★★</description>
+<Point><coordinates>134.2314,35.5039,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Nagoro Scarecrow Village</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>133.9375,33.8425,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mount Yotel (Mount Yotei)</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>140.8039,42.8735,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Yamadera Temple</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>140.3635,38.2590,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Dogo Onsen</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>132.7850817,33.8504258,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ginzan Onsen</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>140.5300687,38.5704194,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Oirase Gorge</name>
+<description>Leg 10: Off-spine — future &middot; ★</description>
+<Point><coordinates>140.974500,40.525278,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Takaragawa Onsen Osenkaku</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>139.0468165,36.8479555,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tarumizu Ruins</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>140.4431732,38.3179329,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Eiheiji Temple</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>136.3560152,36.0557075,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Sannobo Hie Shrine</name>
+<description>Leg 10: Off-spine &middot; ★</description>
+<Point><coordinates>140.3678921,41.0665800,0</coordinates></Point>
+</Placemark>
 </Document>
 </kml>
